@@ -1,0 +1,148 @@
+{
+    "img_data": [
+        {
+            "name": "Police Car",
+            "name_ja": "パトカー",
+            "size": 7917,
+            "md5": "f66e177e39ef4b3fe97cade1c0654a6c",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car001.png",
+            "local_path": "imgs/working_cars/car001.png"
+        },
+        {
+            "name": "Ambulance",
+            "name_ja": "救急車",
+            "size": 9137,
+            "md5": "0c060a37ba54f9231a01785d97199743",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car002.png",
+            "local_path": "imgs/working_cars/car002.png"
+        },
+        {
+            "name": "Taxi",
+            "name_ja": "タクシー",
+            "size": 9617,
+            "md5": "cc4c9222636d28e44dad8e40b547bee3",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car003.png",
+            "local_path": "imgs/working_cars/car003.png"
+        },
+        {
+            "name": "Bulldozer",
+            "name_ja": "ブルドーザー",
+            "size": 8929,
+            "md5": "2daec3532232b139aadedaf534659922",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car004.png",
+            "local_path": "imgs/working_cars/car004.png"
+        },
+        {
+            "name": "Fire Engine",
+            "name_ja": "消防車",
+            "size": 14074,
+            "md5": "4dbb9fb86a507621e5a84ba3154f28cd",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car005.png",
+            "local_path": "imgs/working_cars/car005.png"
+        },
+        {
+            "name": "Garbage Truck",
+            "name_ja": "ゴミ収集車",
+            "size": 8970,
+            "md5": "7451b9eaec8068c885c95a5b7ee51b8e",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car006.png",
+            "local_path": "imgs/working_cars/car006.png"
+        },
+        {
+            "name": "Bus",
+            "name_ja": "バス",
+            "size": 9650,
+            "md5": "2955f9d716c68a0b7da3a617a7721dcb",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car007.png",
+            "local_path": "imgs/working_cars/car007.png"
+        },
+        {
+            "name": "Excavator",
+            "name_ja": "ショベルカー",
+            "size": 10121,
+            "md5": "7693a6e719595ebebe26f2d5bf42fd8a",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car008.png",
+            "local_path": "imgs/working_cars/car008.png"
+        },
+        {
+            "name": "Post Car",
+            "name_ja": "郵便車",
+            "size": 8541,
+            "md5": "966ace846edc3bc8cafcce1abfae10e8",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car009.png",
+            "local_path": "imgs/working_cars/car009.png"
+        },
+        {
+            "name": "Freight Car",
+            "name_ja": "貨物車",
+            "size": 7319,
+            "md5": "2ada9d61cf14e0a98ee2d2e29da92d97",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car010.png",
+            "local_path": "imgs/working_cars/car010.png"
+        },
+        {
+            "name": "Mobile Sales Car",
+            "name_ja": "移動販売車",
+            "size": 12129,
+            "md5": "98c6b1a200ae9cbb58d2b0515a9d82da",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car011.png",
+            "local_path": "imgs/working_cars/car011.png"
+        },
+        {
+            "name": "Truck",
+            "name_ja": "トラック",
+            "size": 10147,
+            "md5": "3256f1094dfafa381fc38c557345defe",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car012.png",
+            "local_path": "imgs/working_cars/car012.png"
+        },
+        {
+            "name": "Post Truck",
+            "name_ja": "郵便トラック",
+            "size": 9678,
+            "md5": "cf56338c77090c6c9a4d329f941c2d39",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car013.png",
+            "local_path": "imgs/working_cars/car013.png"
+        },
+        {
+            "name": "Head Truck",
+            "name_ja": "ヘッドトラック",
+            "size": 7110,
+            "md5": "0be5dc9d618c02faa1906fd45f118ba1",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car014.png",
+            "local_path": "imgs/working_cars/car014.png"
+        },
+        {
+            "name": "Kitchen Car",
+            "name_ja": "キッチンカー",
+            "size": 7882,
+            "md5": "69e7332bbcc08596f307df9960f9a72b",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car015.png",
+            "local_path": "imgs/working_cars/car015.png"
+        },
+        {
+            "name": "Mixer Car",
+            "name_ja": "ミクサー車",
+            "size": 11446,
+            "md5": "a8ed5b65dc63f3f5389783084198fff0",
+            "category": "working_cars",
+            "img_url": "https://github.com/zh-wang/right_brain_training_data/blob/main/imgs/working_cars/car016.png",
+            "local_path": "imgs/working_cars/car016.png"
+        }
+    ]
+}

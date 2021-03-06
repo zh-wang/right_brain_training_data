@@ -1,0 +1,149 @@
+{
+    "img_data": [
+        {
+            "name": "Police Car",
+            "name_ja": "パトカー",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car001.png"
+        },
+        {
+            "name": "Ambulance",
+            "name_ja": "救急車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car002.png"
+        },
+        {
+            "name": "Taxi",
+            "name_ja": "タクシー",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car003.png"
+        },
+        {
+            "name": "Bulldozer",
+            "name_ja": "ブルドーザー",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car004.png"
+        },
+        {
+            "name": "Fire Engine",
+            "name_ja": "消防車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car005.png"
+        },
+        {
+            "name": "Garbage Truck",
+            "name_ja": "ゴミ収集車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car006.png"
+        },
+        {
+            "name": "Bus",
+            "name_ja": "バス",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car007.png"
+        },
+        {
+            "name": "Excavator",
+            "name_ja": "ショベルカー",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car008.png"
+
+        },
+        {
+            "name": "Post Car",
+            "name_ja": "郵便車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car009.png"
+        },
+        {
+            "name": "Freight Car",
+            "name_ja": "貨物車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car010.png"
+        },
+        {
+            "name": "Mobile Sales Car",
+            "name_ja": "移動販売車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car011.png"
+        },
+        {
+            "name": "Truck",
+            "name_ja": "トラック",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car012.png"
+        },
+        {
+            "name": "Post Truck",
+            "name_ja": "郵便トラック",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car013.png"
+        },
+        {
+            "name": "Head Truck",
+            "name_ja": "ヘッドトラック",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car014.png"
+        },
+        {
+            "name": "Kitchen Car",
+            "name_ja": "キッチンカー",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car015.png"
+        },
+        {
+            "name": "Mixer Car",
+            "name_ja": "ミクサー車",
+            "size": 0,
+            "md5": "",
+            "category": "working_cars",
+            "img_url": "",
+            "local_path": "imgs/working_cars/car016.png"
+        }
+    ]
+}
