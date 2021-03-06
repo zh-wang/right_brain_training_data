@@ -26,8 +26,7 @@ with open(raw_data_file_path, 'r') as json_file:
             img_entry['md5'] = file_hash.hexdigest()
         if not img_entry['size']:
             img_entry['size'] = os.stat(local_path).st_size
-        if not img_entry['img_url']:
-            img_entry['img_url'] = "https://github.com/zh-wang/right_brain_training_data/blob/main/%s" % local_path
+        img_entry['img_url'] = "https://zh-wang.github.io/right_brain_training_data/%s" % local_path
     mod_data = data
 
 with open(raw_data_file_path, 'w') as json_file:
