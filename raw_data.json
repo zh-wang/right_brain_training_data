@@ -1,4 +1,102 @@
 {
+    "audio_data": [
+        {
+            "text": "パトカー",
+            "path": "audio/パトカー.mp3",
+            "md5": "40b15a654e7576ca92a033850ec6dbf5",
+            "size": 4128
+        },
+        {
+            "text": "救急車",
+            "path": "audio/救急車.mp3",
+            "md5": "0b187d9a499a2ad00f7a21a391c6babc",
+            "size": 4704
+        },
+        {
+            "text": "タクシー",
+            "path": "audio/タクシー.mp3",
+            "md5": "cc54f9629c82c0e2ed294d5a97c6dfac",
+            "size": 4032
+        },
+        {
+            "text": "ブルドーザー",
+            "path": "audio/ブルドーザー.mp3",
+            "md5": "221b599f6433a53c8aa1fa75f46780fc",
+            "size": 5088
+        },
+        {
+            "text": "消防車",
+            "path": "audio/消防車.mp3",
+            "md5": "e4af0bac918ca0570ec59107919255c2",
+            "size": 4992
+        },
+        {
+            "text": "ゴミ収集車",
+            "path": "audio/ゴミ収集車.mp3",
+            "md5": "81b6b4592cf684c9c1c2157572fffefc",
+            "size": 6144
+        },
+        {
+            "text": "バス",
+            "path": "audio/バス.mp3",
+            "md5": "c00e34c4549d6a829d3838d4aad20357",
+            "size": 2400
+        },
+        {
+            "text": "ショベルカー",
+            "path": "audio/ショベルカー.mp3",
+            "md5": "22b4dd6779ff8a277d22d95bb63cacfe",
+            "size": 4800
+        },
+        {
+            "text": "郵便車",
+            "path": "audio/郵便車.mp3",
+            "md5": "5939db45cadf0cd36f712a2a1940bb8e",
+            "size": 4704
+        },
+        {
+            "text": "貨物車",
+            "path": "audio/貨物車.mp3",
+            "md5": "46096713e23e55dcbe5bbedfc906d70f",
+            "size": 4224
+        },
+        {
+            "text": "移動販売車",
+            "path": "audio/移動販売車.mp3",
+            "md5": "e1be964a7e02e9107272f48955932660",
+            "size": 6048
+        },
+        {
+            "text": "トラック",
+            "path": "audio/トラック.mp3",
+            "md5": "bc6c7a5f6ab8ddb48eb78d820d7e7ed0",
+            "size": 4032
+        },
+        {
+            "text": "郵便トラック",
+            "path": "audio/郵便トラック.mp3",
+            "md5": "2cdfafaf6b7866d8e581563889ec01a9",
+            "size": 6336
+        },
+        {
+            "text": "ヘッドトラック",
+            "path": "audio/ヘッドトラック.mp3",
+            "md5": "8ef9fa63502f9e8f217f2a89409057da",
+            "size": 5664
+        },
+        {
+            "text": "キッチンカー",
+            "path": "audio/キッチンカー.mp3",
+            "md5": "fb707d063d78cd9a0702d9fb00092a2f",
+            "size": 4992
+        },
+        {
+            "text": "ミクサー車",
+            "path": "audio/ミクサー車.mp3",
+            "md5": "f7eb7bcc33a5cf688c8dce88d1fb0444",
+            "size": 4896
+        }
+    ],
     "img_data": [
         {
             "name": "Police Car",
@@ -7,8 +105,7 @@
             "md5": "f66e177e39ef4b3fe97cade1c0654a6c",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car001.png",
-            "local_path": "imgs/working_cars/car001.png",
-            "audio": "audio/パトカー.mp3"
+            "local_path": "imgs/working_cars/car001.png"
         },
         {
             "name": "Ambulance",
@@ -17,8 +114,7 @@
             "md5": "0c060a37ba54f9231a01785d97199743",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car002.png",
-            "local_path": "imgs/working_cars/car002.png",
-            "audio": "audio/救急車.mp3"
+            "local_path": "imgs/working_cars/car002.png"
         },
         {
             "name": "Taxi",
@@ -27,8 +123,7 @@
             "md5": "cc4c9222636d28e44dad8e40b547bee3",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car003.png",
-            "local_path": "imgs/working_cars/car003.png",
-            "audio": "audio/タクシー.mp3"
+            "local_path": "imgs/working_cars/car003.png"
         },
         {
             "name": "Bulldozer",
@@ -37,8 +132,7 @@
             "md5": "2daec3532232b139aadedaf534659922",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car004.png",
-            "local_path": "imgs/working_cars/car004.png",
-            "audio": "audio/ブルドーザー.mp3"
+            "local_path": "imgs/working_cars/car004.png"
         },
         {
             "name": "Fire Engine",
@@ -47,8 +141,7 @@
             "md5": "4dbb9fb86a507621e5a84ba3154f28cd",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car005.png",
-            "local_path": "imgs/working_cars/car005.png",
-            "audio": "audio/消防車.mp3"
+            "local_path": "imgs/working_cars/car005.png"
         },
         {
             "name": "Garbage Truck",
@@ -57,8 +150,7 @@
             "md5": "7451b9eaec8068c885c95a5b7ee51b8e",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car006.png",
-            "local_path": "imgs/working_cars/car006.png",
-            "audio": "audio/ゴミ収集車.mp3"
+            "local_path": "imgs/working_cars/car006.png"
         },
         {
             "name": "Bus",
@@ -67,8 +159,7 @@
             "md5": "2955f9d716c68a0b7da3a617a7721dcb",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car007.png",
-            "local_path": "imgs/working_cars/car007.png",
-            "audio": "audio/バス.mp3"
+            "local_path": "imgs/working_cars/car007.png"
         },
         {
             "name": "Excavator",
@@ -77,8 +168,7 @@
             "md5": "7693a6e719595ebebe26f2d5bf42fd8a",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car008.png",
-            "local_path": "imgs/working_cars/car008.png",
-            "audio": "audio/ショベルカー.mp3"
+            "local_path": "imgs/working_cars/car008.png"
         },
         {
             "name": "Post Car",
@@ -87,8 +177,7 @@
             "md5": "966ace846edc3bc8cafcce1abfae10e8",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car009.png",
-            "local_path": "imgs/working_cars/car009.png",
-            "audio": "audio/郵便車.mp3"
+            "local_path": "imgs/working_cars/car009.png"
         },
         {
             "name": "Freight Car",
@@ -97,8 +186,7 @@
             "md5": "2ada9d61cf14e0a98ee2d2e29da92d97",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car010.png",
-            "local_path": "imgs/working_cars/car010.png",
-            "audio": "audio/貨物車.mp3"
+            "local_path": "imgs/working_cars/car010.png"
         },
         {
             "name": "Mobile Sales Car",
@@ -107,8 +195,7 @@
             "md5": "98c6b1a200ae9cbb58d2b0515a9d82da",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car011.png",
-            "local_path": "imgs/working_cars/car011.png",
-            "audio": "audio/移動販売車.mp3"
+            "local_path": "imgs/working_cars/car011.png"
         },
         {
             "name": "Truck",
@@ -117,8 +204,7 @@
             "md5": "3256f1094dfafa381fc38c557345defe",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car012.png",
-            "local_path": "imgs/working_cars/car012.png",
-            "audio": "audio/トラック.mp3"
+            "local_path": "imgs/working_cars/car012.png"
         },
         {
             "name": "Post Truck",
@@ -127,8 +213,7 @@
             "md5": "cf56338c77090c6c9a4d329f941c2d39",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car013.png",
-            "local_path": "imgs/working_cars/car013.png",
-            "audio": "audio/郵便トラック.mp3"
+            "local_path": "imgs/working_cars/car013.png"
         },
         {
             "name": "Head Truck",
@@ -137,8 +222,7 @@
             "md5": "0be5dc9d618c02faa1906fd45f118ba1",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car014.png",
-            "local_path": "imgs/working_cars/car014.png",
-            "audio": "audio/ヘッドトラック.mp3"
+            "local_path": "imgs/working_cars/car014.png"
         },
         {
             "name": "Kitchen Car",
@@ -147,8 +231,7 @@
             "md5": "69e7332bbcc08596f307df9960f9a72b",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car015.png",
-            "local_path": "imgs/working_cars/car015.png",
-            "audio": "audio/キッチンカー.mp3"
+            "local_path": "imgs/working_cars/car015.png"
         },
         {
             "name": "Mixer Car",
@@ -157,8 +240,7 @@
             "md5": "a8ed5b65dc63f3f5389783084198fff0",
             "category": "working_cars",
             "img_url": "https://zh-wang.github.io/right_brain_training_data/imgs/working_cars/car016.png",
-            "local_path": "imgs/working_cars/car016.png",
-            "audio": "audio/ミクサー車.mp3"
+            "local_path": "imgs/working_cars/car016.png"
         }
     ]
 }
