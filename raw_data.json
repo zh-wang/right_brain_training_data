@@ -4,97 +4,113 @@
             "text": "パトカー",
             "path": "audio/パトカー.mp3",
             "md5": "40b15a654e7576ca92a033850ec6dbf5",
-            "size": 4128
+            "size": 4128,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/パトカー.mp3"
         },
         {
             "text": "救急車",
             "path": "audio/救急車.mp3",
             "md5": "0b187d9a499a2ad00f7a21a391c6babc",
-            "size": 4704
+            "size": 4704,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/救急車.mp3"
         },
         {
             "text": "タクシー",
             "path": "audio/タクシー.mp3",
             "md5": "cc54f9629c82c0e2ed294d5a97c6dfac",
-            "size": 4032
+            "size": 4032,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/タクシー.mp3"
         },
         {
             "text": "ブルドーザー",
             "path": "audio/ブルドーザー.mp3",
             "md5": "221b599f6433a53c8aa1fa75f46780fc",
-            "size": 5088
+            "size": 5088,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/ブルドーザー.mp3"
         },
         {
             "text": "消防車",
             "path": "audio/消防車.mp3",
             "md5": "e4af0bac918ca0570ec59107919255c2",
-            "size": 4992
+            "size": 4992,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/消防車.mp3"
         },
         {
             "text": "ゴミ収集車",
             "path": "audio/ゴミ収集車.mp3",
             "md5": "81b6b4592cf684c9c1c2157572fffefc",
-            "size": 6144
+            "size": 6144,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/ゴミ収集車.mp3"
         },
         {
             "text": "バス",
             "path": "audio/バス.mp3",
             "md5": "c00e34c4549d6a829d3838d4aad20357",
-            "size": 2400
+            "size": 2400,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/バス.mp3"
         },
         {
             "text": "ショベルカー",
             "path": "audio/ショベルカー.mp3",
             "md5": "22b4dd6779ff8a277d22d95bb63cacfe",
-            "size": 4800
+            "size": 4800,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/ショベルカー.mp3"
         },
         {
             "text": "郵便車",
             "path": "audio/郵便車.mp3",
             "md5": "5939db45cadf0cd36f712a2a1940bb8e",
-            "size": 4704
+            "size": 4704,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/郵便車.mp3"
         },
         {
             "text": "貨物車",
             "path": "audio/貨物車.mp3",
             "md5": "46096713e23e55dcbe5bbedfc906d70f",
-            "size": 4224
+            "size": 4224,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/貨物車.mp3"
         },
         {
             "text": "移動販売車",
             "path": "audio/移動販売車.mp3",
             "md5": "e1be964a7e02e9107272f48955932660",
-            "size": 6048
+            "size": 6048,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/移動販売車.mp3"
         },
         {
             "text": "トラック",
             "path": "audio/トラック.mp3",
             "md5": "bc6c7a5f6ab8ddb48eb78d820d7e7ed0",
-            "size": 4032
+            "size": 4032,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/トラック.mp3"
         },
         {
             "text": "郵便トラック",
             "path": "audio/郵便トラック.mp3",
             "md5": "2cdfafaf6b7866d8e581563889ec01a9",
-            "size": 6336
+            "size": 6336,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/郵便トラック.mp3"
         },
         {
             "text": "ヘッドトラック",
             "path": "audio/ヘッドトラック.mp3",
             "md5": "8ef9fa63502f9e8f217f2a89409057da",
-            "size": 5664
+            "size": 5664,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/ヘッドトラック.mp3"
         },
         {
             "text": "キッチンカー",
             "path": "audio/キッチンカー.mp3",
             "md5": "fb707d063d78cd9a0702d9fb00092a2f",
-            "size": 4992
+            "size": 4992,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/キッチンカー.mp3"
         },
         {
             "text": "ミクサー車",
             "path": "audio/ミクサー車.mp3",
             "md5": "f7eb7bcc33a5cf688c8dce88d1fb0444",
-            "size": 4896
+            "size": 4896,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/audio/ミクサー車.mp3"
         }
     ],
     "img_data": [

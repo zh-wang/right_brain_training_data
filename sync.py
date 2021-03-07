@@ -32,7 +32,8 @@ def fetch_audio_file(text, checker, li):
             "text": text,
             "path": audio_file_local_path,
             "md5": calc_md5(audio_file_local_path),
-            "size": os.stat(audio_file_local_path).st_size
+            "size": os.stat(audio_file_local_path).st_size,
+            "audio_url": "https://zh-wang.github.io/right_brain_training_data/%s" % audio_file_local_path
             }
     li.append(new_entry)
 
