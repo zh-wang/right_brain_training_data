@@ -6,6 +6,7 @@ import time
 import urllib.request
 import json
 import hashlib
+from fetch_audio import fetch_audio
 
 raw_data_file_path = 'raw_data.json'
 
@@ -27,6 +28,9 @@ with open(raw_data_file_path, 'r') as json_file:
         if not img_entry['size']:
             img_entry['size'] = os.stat(local_path).st_size
         img_entry['img_url'] = "https://zh-wang.github.io/right_brain_training_data/%s" % local_path
+        if 'audio' not in img_entry or not img_entry['audio']:
+            fetch_audio(img_entry['name_ja'])
+            img_entry['audio'] = 'audio/%s.mp3' % img_entry['name_ja']
     mod_data = data
 
 with open(raw_data_file_path, 'w') as json_file:
